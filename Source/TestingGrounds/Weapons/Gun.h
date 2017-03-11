@@ -44,9 +44,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 	class UAnimInstance* AnimInstance;
 
-protected:
-
 	void OnFire();
+
+protected:
 
 	
 	
